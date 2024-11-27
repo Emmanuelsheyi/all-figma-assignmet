@@ -21,6 +21,7 @@ nav{
 padding: 40px;
 }
  a{
+    display: flex;
     text-decoration: none;
     padding: 40px;
     font-size: 30px;
@@ -28,4 +29,11 @@ padding: 40px;
     font-weight: 700;
 
  }
+
+ /* @media max-width: 450px {
+    nav{
+        display: grid;
+    }
+    
+ } */
 
